@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://harshp-zigs.github.io/scalable-ai-product-blueprint/</loc>
+    <lastmod>2026-11-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://harshp-zigs.github.io/scalable-ai-product-blueprint/intelligent-product-engineering-roadmap.jpeg</image:loc>
+      <image:title>Architecting Value: How End-to-End AI Engineering Transforms Software Products</image:title>
+    </image:image>
+  </url>
+</urlset>
